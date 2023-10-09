@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaacdyor
-- 👀 I’m interested in blockchain tecnology and web devleopment
-- 🌱 I’m currently learning Javscript, React, and Solidity. 
+- 👀 I’m interested in web development
+- 🌱 I’m currently building a royalty based freelancing app. 
 - 📫 How to reach me isaac@dyor.com
 
 <!---
