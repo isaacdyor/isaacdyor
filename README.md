@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isaacdyor
-- 👀 I’m interested in web development
-- 🌱 I’m currently building a royalty based freelancing app. 
-- 📫 How to reach me isaac@dyor.com
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently researching few-Shot Learning and Prompt Engineering for Natural Language Processing (NLP). 
+- 📫 You can reach me by email at isaac@dyor.com
 
 <!---
 isaacdyor/isaacdyor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
