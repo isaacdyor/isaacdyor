@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaacdyor
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently researching few-Shot Learning and Prompt Engineering for Natural Language Processing (NLP). 
+- 🌱 I’m currently interning at Attrove
 - 📫 You can reach me by email at isaac@dyor.com
 
 <!---
