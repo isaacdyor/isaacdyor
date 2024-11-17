@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=isaacdyor)](https://git.io/streak-stats)
+Software engineer interested in startups
